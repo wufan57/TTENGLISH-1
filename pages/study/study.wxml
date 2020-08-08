@@ -1,0 +1,53 @@
+<!-- banner -->
+<view class="banner">
+  <image class="avatar" src="/static/images/mryh.png"></image>
+  <text>请登录</text>
+</view>
+
+<!-- 列表 -->
+<view class="wordlist">
+  <view class="worditem">
+    <view class="wordleft">
+      <image src="/static/images/apple.jpg" mode="scaleToFill"></image>
+      <text>苹果</text>
+    </view>
+    <view class="wordright">
+      <image src="/static/images/yxh.png" mode="scaleToFill"></image>
+      <image src="/static/images/sc.png" mode="scaleToFill"></image>
+    </view>
+  </view>
+
+  <view class="worditem">
+    <view class="wordleft">
+      <image src="/static/images/apple.jpg" mode="scaleToFill"></image>
+      <text>苹果</text>
+    </view>
+    <view class="wordright">
+      <image src="/static/images/yxh.png" mode="scaleToFill"></image>
+      <image src="/static/images/sc.png" mode="scaleToFill"></image>
+    </view>
+  </view>
+
+  <view class="worditem">
+    <view class="wordleft">
+      <image src="/static/images/apple.jpg" mode="scaleToFill"></image>
+      <text>苹果</text>
+    </view>
+    <view class="wordright">
+      <image src="/static/images/yxh.png" mode="scaleToFill"></image>
+      <image src="/static/images/sc.png" mode="scaleToFill"></image>
+    </view>
+  </view>
+
+  <view class="worditem">
+    <view class="wordleft">
+      <image src="/static/images/apple.jpg" mode="scaleToFill"></image>
+      <text>苹果</text>
+    </view>
+    <view class="wordright">
+      <image src="/static/images/yxh.png" mode="scaleToFill"></image>
+      <image src="/static/images/sc.png" mode="scaleToFill"></image>
+    </view>
+  </view>
+
+</view>
